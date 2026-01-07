@@ -51,5 +51,5 @@ It provides a complete online shopping experience including product browsing, ca
 
 ---
 
-## 📂 Project Structure
+
 
