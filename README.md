@@ -1,6 +1,8 @@
 # 🛒 SmartShop – MERN Stack E-Commerce Application
 
-
+<p align="center">
+  <img src="image.png" width="850"/>
+</p>
 
 SmartShop is a full-stack **E-Commerce web application** built using the **MERN stack (MongoDB, Express.js, React.js, Node.js)**.  
 It provides a complete online shopping experience including product browsing, cart management, authentication, and admin functionality.
